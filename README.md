@@ -21,7 +21,7 @@ How it works
 4. Displays the raw data and graphical comparison between predicted and actual prices.
 Getting Started
 1. Clone this repository:
- git clone https://github.com/yourusername/stock-price-predictor.git
+ git clone https://github.com/siri5997/stock-price-predictor.git
  cd stock-price-predictor
 2. Install dependencies:
  pip install -r requirements.txt
